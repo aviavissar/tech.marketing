@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  .login-input {
+    @apply rounded-md py-3 px-4 my-6px border border-gray-300 w-full 
+        focus:outline-none focus:ring-2 focus:ring-blue-600 sm:placeholder-gray-500 sm:text-14px
+        sm:py-14px sm:bg-mobileinputbg sm:border-gray-200 sm:leading-4 sm:shadow-mobileinput
+         sm:rounded-sm sm:mt-0
+  }
+  body{
+    /* purgecss ignore current */ 
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+

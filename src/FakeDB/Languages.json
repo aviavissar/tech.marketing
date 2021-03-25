@@ -1,0 +1,51 @@
+{
+    "languages": [
+        {
+            "text": "עברית",
+            "src": "#"
+        }, {
+            "text": "English (US)",
+            "src": "#"
+        }, {
+            "text": "Русский",
+            "src": "#"
+        },
+        {
+            "text": "Français (France)",
+            "src": "#"
+        }, {
+            "text": "Español",
+            "src": "#"
+        }, {
+            "text": "ภาษาไทย",
+            "src": "#"
+        }, {
+            "text": "Deutsch",
+            "src": "#"
+        }, {
+            "text": "Português (Brasil)",
+            "src": "#"
+        }, {
+            "text": "משחקים",
+            "src": "#"
+        },
+        {
+            "text": "מיקומים",
+            "src": "#"
+        }, {
+            "text": "Marketplace",
+            "src": "#"
+        }, {
+            "text": "Facebook Pay",
+            "src": "#"
+        }, {
+            "text": "Italiano",
+            "src": "#"
+        },
+        {
+            "text": "हिन्दी",
+            "src": "#"
+        }
+        
+    ]
+}
